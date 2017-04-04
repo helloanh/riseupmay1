@@ -1,7 +1,7 @@
 # Rise Up May 1st Day of Action 
 Rise Up May 1st Campaign Theme for Reform Immigration 4 America, FIRM, CCCA  
 
-## Site Location: riseupmay1.org  
+## Site Location: <a href="http://riseupmay1.org"> riseupmay1.org </a>
 
 ## Specifications:  
   + Client wants a site within their existing theme but with complete now skin for the purpose of a short-term campaign
